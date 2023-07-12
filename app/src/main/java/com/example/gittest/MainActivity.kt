@@ -16,6 +16,10 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         // git 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
+
+        /**
+         * release 0.0.1
+         */
         setContent {
             GitTestTheme {
                 // A surface container using the 'background' color from the theme
