@@ -15,7 +15,7 @@ import com.example.gittest.ui.theme.GitTestTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // git 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
+        // git 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
 
         /**
          * release 0.0.1
